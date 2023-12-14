@@ -7,6 +7,7 @@ I worked as a front-end developer having expertise in web designing, and web dev
 The services I offer are :
 
 ➡ React Js <br>
+➡ Next Js <br>
 ➡ Redux / Redux Toolkit <br>
 ➡ Material UI <br>
 ➡ React Bootstrap <br>
@@ -15,14 +16,15 @@ The services I offer are :
 ➡ JavaScript <br>
 ➡ Bootstrap 3/4/5 <br>
 ➡ Adobe Xd | Figma to Html <br>
-➡SVG <br>
+➡ SVG <br>
 ➡ Git <br>
 ➡ Website Redesign <br>
 ➡ Website Customization <br>
 ➡ Responsive Design <br>
 ➡ Pixel Perfect Design <br>
 ➡ Adobe XD <br>
-➡ Figma
+➡ Figma <br>
+➡ Vue Js <br>
 
 
 # 💻 Tech Stack:
