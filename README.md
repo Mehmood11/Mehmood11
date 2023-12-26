@@ -2,8 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmood-dev/)
 
-I worked as a front-end developer having expertise in web designing, and web development making responsive sites  PSD to Html, Figma to Html, XD  to Html, and creating custom sites using HTML5, CSS3, JavaScript, and Bootstrap, React using Material Ui or React Bootstrap. I will develop a responsive website for you and ensure that the design follows high-quality and creative aesthetic guidelines.
-
+I worked as a front-end developer having expertise in web designing, and web development making responsive sites PSD to Html, Figma to Html, XD  to Html, and creating custom sites using HTML5, CSS3, JavaScript, and Bootstrap, React Js Next Js using Material Ui or React Bootstrap.
 The services I offer are :
 
 ➡ React Js <br>
